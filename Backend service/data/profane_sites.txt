@@ -1,0 +1,4 @@
+https://www.cs.cmu.edu/~biglou/resources/bad-words.txt
+https://en.wiktionary.org/wiki/Category:English_swear_words
+https://en.wikipedia.org/wiki/Category:English_profanity
+https://www.cs.cmu.edu/~biglou/resources/EN_SP_DICT.txt
